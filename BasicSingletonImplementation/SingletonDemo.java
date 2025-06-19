@@ -27,8 +27,3 @@ public class SingletonDemo {
     }
 }
 
-
-/**
- * Issues with This Approach
- * ❌ Not Thread-safe: Multiple threads may create multiple instances simultaneously.
- */
