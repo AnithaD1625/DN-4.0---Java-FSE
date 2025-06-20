@@ -1,4 +1,3 @@
-package FullFactoryPattern;
 
 // Product Interface
 interface Food {
