@@ -1,3 +1,10 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "Week1_DesignPrinciplesAndPattern\\4_FinancalForecasting\\Code"
+    ],
+    "java.project.referencedLibraries": [
+        "d:\\22012025\\Desktop\\summa\\DN-4.0---Java-FSE\\lib\\hamcrest-core-1.3.jar",
+        "d:\\22012025\\Desktop\\summa\\DN-4.0---Java-FSE\\lib\\junit-4.13.2.jar"
+    ]
 }
